@@ -21839,4 +21839,3 @@ Canal MIDI: 2
 Tipo de mensaje: note_off
 Nota: 69
 Velocidad: 64
-(base) Jorges-iMac:~ jorgenoguera$ 
